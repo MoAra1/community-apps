@@ -57,7 +57,7 @@
         var runningScriptJson;
         for (var j = 0; j < currentlyRunningScripts.length; j++) {
             runningScriptJson = currentlyRunningScripts[j].url;
-            if (runningScriptJson.indexOf("https://more.overte.org/applications") !== -1) {
+            if (runningScriptJson.indexOf("https://more.enftr.io/applications") !== -1) {
                 newMessage += "_" + runningScriptJson;
             }
         }

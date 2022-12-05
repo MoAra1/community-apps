@@ -89,7 +89,7 @@
          },
          "ambientLight":{
             "ambientIntensity":0.80000001192093,
-            "ambientURL":"https://more.overte.org/applications/materialDataCreator/images/zoneDayAmbient.jpg"
+            "ambientURL":"https://more.enftr.io/applications/materialDataCreator/images/zoneDayAmbient.jpg"
          },
          "skybox":{
             "color":{
@@ -97,7 +97,7 @@
                "green":255,
                "blue":255
             },
-            "url":"https://more.overte.org/applications/materialDataCreator/images/zoneDaySky.png"
+            "url":"https://more.enftr.io/applications/materialDataCreator/images/zoneDaySky.png"
          },
          "haze":{
             "hazeRange":800,
@@ -175,7 +175,7 @@
          },
          "ambientLight":{
             "ambientIntensity":0.25,
-            "ambientURL":"https://more.overte.org/applications/materialDataCreator/images/zoneNightAmbient.jpg"
+            "ambientURL":"https://more.enftr.io/applications/materialDataCreator/images/zoneNightAmbient.jpg"
          },
          "skybox":{
             "color":{
@@ -183,7 +183,7 @@
                "green":255,
                "blue":255
             },
-            "url":"https://more.overte.org/applications/materialDataCreator/images/zoneNightSky.png"
+            "url":"https://more.enftr.io/applications/materialDataCreator/images/zoneNightSky.png"
          },
          "haze":{
             "hazeRange":800,
@@ -236,7 +236,7 @@
         "grab": {
             "grabbable": false
         },
-        "modelURL": "https://more.overte.org/applications/materialDataCreator/models/BRAND_LOGO_NIGHT.fbx",
+        "modelURL": "https://more.enftr.io/applications/materialDataCreator/models/BRAND_LOGO_NIGHT.fbx",
         "animation": {
             "allowTranslation": false
     }
@@ -264,7 +264,7 @@
         "grab": {
             "grabbable": false
         },
-        "modelURL": "https://more.overte.org/applications/materialDataCreator/models/BRAND_LOGO_NIGHT.fbx",
+        "modelURL": "https://more.enftr.io/applications/materialDataCreator/models/BRAND_LOGO_NIGHT.fbx",
         "animation": {
             "allowTranslation": false
         }

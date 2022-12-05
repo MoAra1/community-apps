@@ -6,8 +6,8 @@
 //  Copyright 2020 Vircadia contributors.
 //  Copyright 2022 Overte e.V.
 //
-//  App maintained in: https://github.com/overte-org/community-apps
-//  App copied to: https://github.com/overte-org/overte
+//  App maintained in: https://github.com/MoAra1/community-apps
+//  App copied to: https://github.com/enftr
 //
 //
 //  Distributed under the Apache License, Version 2.0.
@@ -29,7 +29,7 @@
             var currentPath = window.location.protocol + "//" + window.location.host + window.location.pathname;
             var developmentMode = window.location.toString().split("?")[1];
             var rootPath;    
-            var metadataScriptSrc = "https://more.overte.org/applications/metadata.js";
+            var metadataScriptSrc = "https://more.enftr.io/applications/metadata.js";
 
             if (developmentMode === "dev") { // Development mode loads locally, if not, load from repo.
                 console.info("Setting applications to local.")
@@ -39,7 +39,7 @@
             } else {
                 console.info("Setting applications to remote URL.")
                 console.info("Loading metadata remotely.");
-                rootPath = "https://more.overte.org/applications/";
+                rootPath = "https://more.enftr.io/applications/";
             }
 
             //Search
@@ -174,7 +174,7 @@
         </div>
         <div id="footer">
             Want to contribute and add your own app?<br>
-            See this repository: <font class="blue">github.com/overte-org/community-apps</font>
+            See this repository: <font class="blue">github.com/MoAra1/community-apps</font>
         </div>
 
         <script>

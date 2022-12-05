@@ -20,7 +20,7 @@ jobs:
         username: ${{ secrets.GHA_MORE_FTP_USER }}
         password: ${{ secrets.GHA_MORE_FTP_PASS }}
         local-dir: ./
-        server-dir: overte/more.overte.org-web/htdocs/
+        server-dir: overte/more.overte.org-web/more.enftr.io/htdocs/
         exclude: |
           **/staging/**
           **/.*
